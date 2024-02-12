@@ -1,0 +1,5 @@
+copy oneup io
+
+>set up backend
+test
+connect to frontend
